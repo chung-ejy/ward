@@ -2,3 +2,4 @@
 *.csv
 .ipynb_checkpoints/
 kills
+match_analysis
